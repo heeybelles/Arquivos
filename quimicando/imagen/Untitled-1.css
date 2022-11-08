@@ -1,0 +1,10 @@
+#slides{
+    max-height: 500px;
+    overflow: hidden;
+  }
+  .carousel-item img{
+    height: 80%;  
+    width: 60%;  
+    position:center;
+    top:.5;
+  }
